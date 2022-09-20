@@ -3,3 +3,4 @@ echo "hello world"
 echo "------------ hi ----------"
 whoami
 uname -a
+echo "-----------hello----------"
